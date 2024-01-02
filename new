@@ -1,1 +1,500 @@
-the change
+   30  ls
+   31  vim ftp
+   32  git status 
+   33  git add .
+   34  git commit -m "fhg fjr njf"
+   35  git log --oneline 
+   36  git branch -d branch1
+   37  git branch
+   38  ls
+   39  rm -rf ftp mogra 
+   40  git checkout pratice 
+   41  ls
+   42  git checkout main 
+   43  git merge pratice 
+   44  git checkout pratice 
+   45  cat panjab
+   46  cat > panjab
+   47  git stash
+   48  cat > panjab
+   49  vi panjab 
+   50  git stash
+   51  vi panjab 
+   52  git stash 
+   53  vi panjab 
+   54  cat panjab 
+   55  git stash list
+   56  git stash panjab
+   57  git stash 
+   58  git stash 
+   59  vi panjab 
+   60  vi rock
+   61  git status 
+   62  git add rock
+   63  git add .
+   64  git status 
+   65  git add .
+   66  git status 
+   67  touch park
+   68  git add park 
+   69  git commit park 
+   70  git commit -m "jdvvdc uiukgd hkb"
+   71  git status 
+   72  ls
+   73  vi park 
+   74  git stash
+   75  vi park 
+   76  mkdir rajat
+   77  ls
+   78  cd rakesh/
+   79  ls
+   80  cd sumit/
+   81  ls
+   82  mkdir rojaoo
+   83  ls
+   84  cd rojaoo/
+   85  ls
+   86  git init
+   87  ls
+   88  ls
+   89  ls
+   90  cd 
+   91  ls
+   92  cd rakesh/
+   93  ls
+   94  cd sumit
+   95  ls
+   96  cd my-practice/
+   97  ls
+   98  git featch
+   99  git fetch 
+  100  git config --user.name rakeshuke
+  101  git config --global user.rakeshuke
+  102  git config --global mail.ukerakesh22@gmail.com
+  103  git fetch 
+  104  git pull
+  105  sudo -i
+  106  su
+  107  su -
+  108  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-13-211-222-135.ap-southeast-2.compute.amazonaws.com
+  109  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-3-106-165-129.ap-southeast-2.compute.amazonaws.com
+  110  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  111  sudo -i
+  112  yum install docker -y
+  113  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  114  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  115  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  116  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  117  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  118  ssh-add -l
+  119   ssh-add ~/.ssh/suraj.acc.docker
+  120  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  121  ssh -i "suraj.acc.docker.pem-206-82-177.ap-southeast-2.compute.amazonaws.com
+  122  ls
+  123  cd
+  124  ls
+  125  cd Downloads/
+  126  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  127  cd
+  128  cd Downloads/
+  129   ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  130  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  131  ssh -i "suraj.acc.docker.pem" ubuntu@ec2-54-79-105-49.ap-southeast-2.compute.amazonaws.com
+  132  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-82-177.ap-southeast-2.compute.amazonaws.com
+  133  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-3-26-144-6.ap-southeast-2.compute.amazonaws.com
+  134  ssh -i "suraj.acc.docker.pem" ubuntu@ec2-3-27-15-191.ap-southeast-2.compute.amazonaws.com
+  135  ll
+  136  cd /
+  137  ls
+  138  cd ..
+  139  cd
+  140  ls
+  141  cd Downloads
+  142  docker pull nginx
+  143  ssh -i "suraj.acc.docker.pem" ubuntu@ec2-54-79-105-49.ap-southeast-2.compute.amazonaws.com
+  144  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  145  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  146  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  147  Started by user admin
+  148  [Pipeline] Start of Pipeline
+  149  [Pipeline] node
+  150  Running on Jenkins in /var/lib/jenkins/workspace/pipeline-kuberneties
+  151  --------------------------------[ jar ]---------------------------[Pipeline] {
+  152  maven-compiler-plugin(default-cspringboo[Pipeline] withEnv
+  153  maven-compiler-plugin:3.1:testCompi(default-tspringboo[Pipeline] {
+  154  [Pipeline] stage
+  155  ------------------------------------------------------------------[Pipeline] { (git clone)
+  156  Step 1/4 : FROM lolhens/baseimage-openjre
+  157  Removing intermediate container 753eb38caccf
+  158  [Pipeline] git
+  159  The recommended git tool is: NONE
+  160  No credentials specified
+  161   > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/pipeline-kuberneties/.git # timeout=10
+  162  Fetching changes from the remote Git repository
+  163   > git config remote.origin.url https://github.com/rakeshuke/springboot-app.git # timeout=10
+  164  Fetching upstream changes from https://github.com/rakeshuke/springboot-app.git
+  165   > git --version # timeout=10
+  166   > git --version # 'git version 2.17.1'
+  167   > git fetch --tags --progress -- https://github.com/rakeshuke/springboot-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+  168   > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+  169  Checking out Revision f493dbf73fd94b5170f07d99256e74f8ea86c684 (refs/remotes/origin/main)
+  170   > git config core.sparsecheckout # timeout=10
+  171   > git checkout -f f493dbf73fd94b5170f07d99256e74f8ea86c684 # timeout=10
+  172   > git branch -a -v --no-abbrev # timeout=10
+  173   > git branch -D main # timeout=10
+  174   > git checkout -b main f493dbf73fd94b5170f07d99256e74f8ea86c684 # timeout=10
+  175  Commit message: "Update azure-pipelines.yml for Azure Pipelines"
+  176   > git rev-list --no-walk f493dbf73fd94b5170f07d99256e74f8ea86c684 # timeout=10
+  177  [Pipeline] }
+  178  [Pipeline] // stage
+  179  [Pipeline] stage
+  180  [Pipeline] { (Build)
+  181  [Pipeline] sh
+  182  + mvn clean package
+  183  WARNING: An illegal reflective access operation has occurred
+  184  WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/usr/share/maven/lib/guice.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+  185  WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+  186  WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+  187  WARNING: All illegal access operations will be denied in a future release
+  188  [INFO] Scanning for projects...
+  189  [INFO] 
+  190  [INFO] ------------------< com.tcs.angularjs:springbootApp >-------------------
+  191  [INFO] Building MyAwesomeApp 0.0.1
+  192  [INFO] ------
+  193  [INFO] 
+  194  [INFO] --- maven-clean-plugin:2.6.1:clean (default-clean) @ springbootApp ---
+  195  [INFO] Deleting /var/lib/jenkins/workspace/pipeline-kuberneties/target
+  196  [INFO] 
+  197  [mINFO] --- maven-resources-plugin:2.6:resources (default-resources) @ springbootApp ---
+  198  [INFO] Using 'UTF-8' encoding to copy filtered resources.
+  199  [INFO] Copying 1 resource
+  200  [INFO] Copying 2 resources
+  201  [INFO] 
+  202  [INFO] --- :3.1:compile ompile) @ tApp ---
+  203  [INFO] Changes detected - recompiling the module!
+  204  [INFO] Compiling 4 source files to /var/lib/jenkins/workspace/pipeline-kuberneties/target/classes
+  205  [INFO] 
+  206  [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ springbootApp ---
+  207  [INFO] Using 'UTF-8' encoding to copy filtered resources.
+  208  [INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/pipeline-kuberneties/src/test/resources
+  209  [INFO] 
+  210  ssh -i "pranav-suraj.pem" ec2-user@ec2-3-26-45-243.ap-southeast-2.compute.amazonaws.com
+  211  cd
+  212  cd Downloads/
+  213  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-236-146-60.ap-southeast-2.compute.amazonaws.com
+  214  ls
+  215  sudo -i
+  216  ssh -i "pranav-suraj.pem" ubuntu@ec2-3-26-12-239.ap-southeast-2.compute.amazonaws.com
+  217  ls
+  218  ssh -i "suraj.acc.docker.pem" ec2-user@ec2-54-206-38-232.ap-southeast-2.compute.amazonaws.com
+  219  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  220  sudo apt update
+  221  apt update -y
+  222  sudo -i
+  223  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  224  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  225  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  226  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  227  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  228  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  229  ssh -i "pranav-suraj.pem" ubuntu@ec2-13-239-146-42.ap-southeast-2.compute.amazonaws.com
+  230  ls
+  231  cd Downloads/
+  232  ssh -i "pranav-suraj.pem" ubuntu@ec2-3-26-17-186.ap-southeast-2.compute.amazonaws.com
+  233  cd 
+  234  cd /d
+  235  ls
+  236  cd
+  237  ls
+  238  cd rakesh/
+  239  ls
+  240  cd sumit/
+  241  ls
+  242  cd my-practice/
+  243  ls
+  244  ls -a
+  245  git remote
+  246  git clone https://github.com/rakeshuke/abhilash1993.github.io.git
+  247  touch data
+  248  git status
+  249  ls
+  250  cd abhilash1993.github.io/
+  251  ls
+  252  git status
+  253  git config --global user.name "rakeshuke"
+  254  git config --global user.name
+  255  git config --global user.gmail "ukerakesh22@gmail.com"
+  256  git init
+  257  git status
+  258  git add .
+  259  git status
+  260  touch hp
+  261  git add hp
+  262  git status
+  263  git commit -m "my data is fresh"
+  264  git log
+  265  git status
+  266  git push 
+  267  git push https://github.com/rakeshuke/abhilash1993.github.io.git
+  268  git ssh-keygen
+  269  ssh-keygen
+  270  ls
+  271  ls -a
+  272  cd .git/
+  273  ls
+  274  cd ..
+  275  ls
+  276  ls
+  277  cd ..
+  278  ls
+  279  cd
+  280  ls
+  281  cd /c/Users/pranav//.ssh/
+  282  ls
+  283  cat id_rsa.pub 
+  284  cd /d/
+  285  cd rakesh
+  286  ls
+  287  ls
+  288  cd
+  289  ls
+  290  cd rakesh/
+  291  ls
+  292  cd sumit/
+  293  ls
+  294  cd my-practice/
+  295  LS
+  296  touch ggg
+  297  git status
+  298  git add .
+  299  git status
+  300  git reset abhilash1993.github.io/
+  301  git status
+  302  git push origin https://github.com/rakeshuke/abhilash1993.github.io.git
+  303  git clone https://github.com/rakeshuke/abhilash1993.github.io.git
+  304  ls
+  305  cd abhilash1993.github.io/
+  306  ls
+  307  touch ggf
+  308  git push https://github.com/rakeshuke/abhilash1993.github.io.git
+  309  git push remote https://github.com/rakeshuke/abhilash1993.github.io.git
+  310  sudo -i
+  311  sudo su
+  312  yum install sudo -y
+  313  ssh -i "chinmaymumbai.pem" ec2-user@ec2-3-108-52-14.ap-south-1.compute.amazonaws.com
+  314  ssh -i "chinmaymumbai.pem" ec2-user@ec2-3-108-52-14.ap-south-1.compute.amazonaws.com
+  315  ssh -i "chinmaymumbai.pem" ec2-user@ec2-65-1-130-109.ap-south-1.compute.amazonaws.com
+  316  ssh -i "chinmaymumbai.pem" ec2-user@ec2-3-108-52-14.ap-south-1.compute.amazonaws.com
+  317  ssh -i "chinmaymumbai.pem" ec2-user@ec2-3-108-52-14.ap-south-1.compute.amazonaws.com
+  318  ssh -i "chinmaymumbai.pem" ec2-user@ec2-65-1-130-109.ap-south-1.compute.amazonaws.com
+  319  ssh -i "chinmaymumbai.pem" ec2-user@ec2-13-232-241-89.ap-south-1.compute.amazonaws.com
+  320  ssh -i "chinmaymumbai.pem" ec2-user@ec2-13-232-241-89.ap-south-1.compute.amazonaws.com
+  321  ssh -i "chinmaymumbai.pem" ec2-user@ec2-13-232-241-89.ap-south-1.compute.amazonaws.com
+  322  ssh -i "chinmaymumbai.pem" ec2-user@ec2-13-233-246-12.ap-south-1.compute.amazonaws.com
+  323  ssh -i "chinmaymumbai.pem" root@ec2-3-109-58-208.ap-south-1.compute.amazonaws.com
+  324  ssh -i "chinmaymumbai.pem" root@ec2-3-109-58-208.ap-south-1.compute.amazonaws.com
+  325  ssh -i "chinmaymumbai.pem" root@ec2-3-109-58-208.ap-south-1.compute.amazonaws.com
+  326  ssh -i "chinmaymumbai.pem" ec2-user@ec2-3-110-123-238.ap-south-1.compute.amazonaws.com
+  327  ls
+  328  cd
+  329  ls
+  330  cd /
+  331  ls
+  332  cd
+  333  cd Downloads/
+  334  ls
+  335  ssh -i "new1.pem" ec2-user@ec2-54-162-15-248.compute-1.amazonaws.com
+  336  ssh -i "dseny.pem" ec2-user@ec2-3-19-240-103.us-east-2.compute.amazonaws.com
+  337  ssh -i "dseny.pem" ec2-user@ec2-3-136-156-80.us-east-2.compute.amazonaws.com
+  338  ssh -i "promothenius.pem" ec2-user@ec2-65-0-205-93.ap-south-1.compute.amazonaws.com
+  339  sudo -i
+  340  ssh -i "promothenius.pem" ubuntu@ec2-13-235-113-223.ap-south-1.compute.amazonaws.com
+  341  ssh -i "promothenius.pem" ubuntu@ec2-13-235-113-223.ap-south-1.compute.amazonaws.com
+  342  ssh -i "promothenius.pem" ubuntu@ec2-13-235-113-223.ap-south-1.compute.amazonaws.com
+  343  ssh -i "promothenius.pem" ubuntu@ec2-35-154-86-75.ap-south-1.compute.amazonaws.com
+  344  ssh -i "promothenius.pem" ubuntu@ec2-35-154-86-75.ap-south-1.compute.amazonaws.com
+  345  ssh -i "promothenius.pem" ubuntu@ec2-35-154-86-75.ap-south-1.compute.amazonaws.com
+  346  ssh -i "promothenius.pem" ubuntu@ec2-35-154-86-75.ap-south-1.compute.amazonaws.com
+  347  sudo -i
+  348  ssh -i "promothenius.pem" ubuntu@ec2-15-206-172-221.ap-south-1.compute.amazonaws.com
+  349  ssh -i "promothenius.pem" root@ec2-52-66-51-207.ap-south-1.compute.amazonaws.com
+  350  sudo -i
+  351  ssh -i "promothenius.pem" root@ec2-52-66-51-207.ap-south-1.compute.amazonaws.com
+  352  ssh -i "promothenius.pem" root@ec2-52-66-51-207.ap-south-1.compute.amazonaws.com
+  353  ssh -i "promothenius.pem" root@ec2-52-66-51-207.ap-south-1.compute.amazonaws.com
+  354  ssh -i "promothenius.pem" ec2-user@ec2-43-204-212-236.ap-south-1.compute.amazonaws.com
+  355  ssh -i "promothenius.pem" ec2-user@ec2-43-204-212-236.ap-south-1.compute.amazonaws.com
+  356  ssh -i "promothenius.pem" ec2-user@ec2-43-204-212-236.ap-south-1.compute.amazonaws.com
+  357  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-191-178-218.us-east-2.compute.amazonaws.com
+  358  ll
+  359  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-191-178-218.us-east-2.compute.amazonaws.com
+  360  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-119-120-55.us-east-2.compute.amazonaws.com
+  361  [200~ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-119-120-55.us-east-2.compute.amazonaws.com~
+  362  clear
+  363  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-119-120-55.us-east-2.compute.amazonaws.com
+  364  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  365  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  366  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  367  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  368  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  369  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  370  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-145-104-32.us-east-2.compute.amazonaws.com
+  371  ssh -i "pranav-sumo-acc.pem" ubuntu@ec2-3-142-197-137.us-east-2.compute.amazonaws.com
+  372  git bash
+  373  git --help
+  374  git add
+  375  git add .
+  376  ssh -i "pranav-sumo-acc.pem" ubuntu@ec2-3-142-197-137.us-east-2.compute.amazonaws.com
+  377  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  378  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  379  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  380  sudo -i
+  381  sudo -i
+  382  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  383  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  384  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-18-223-107-153.us-east-2.compute.amazonaws.com
+  385  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-133-146-148.us-east-2.compute.amazonaws.com
+  386  ls
+  387  cd
+  388  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-133-146-148.us-east-2.compute.amazonaws.com
+  389  sudo -i
+  390  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-133-146-148.us-east-2.compute.amazonaws.com
+  391  ssh -i "pranav-sumo-acc.pem" ec2-user@ec2-3-133-146-148.us-east-2.compute.amazonaws.com
+  392  ssh -i "Jenkins-sonar.pem" ubuntu@ec2-15-207-98-145.ap-south-1.compute.amazonaws.com
+  393   ssh -i "Jenkins-sonar.pem" ubuntu@ec2-13-232-59-189.ap-south-1.compute.amazonaws.com
+  394  ssh -i "new-jenkins.pem" ec2-user@ec2-13-233-92-113.ap-south-1.compute.amazonaws.com
+  395  ssh -i "new-jenkins.pem" ec2-user@ec2-13-233-92-113.ap-south-1.compute.amazonaws.com
+  396  ssh -i "new-jenkins.pem" ec2-user@ec2-13-233-92-113.ap-south-1.compute.amazonaws.com
+  397  ls
+  398  cd rajat/
+  399  git clone git@github.com:bhoyarpranav/git-rules.git
+  400  ls
+  401  cd git-rules/
+  402  git config user.email "pranavbhoyar731@gmail.com"
+  403  vim prant
+  404  git add .
+  405  git status
+  406  git commit -m "jkhdkjs yhhew iuohewf"
+  407  git push 
+  408  ssh -i "Application Task-key-pranav.pem" ubuntu@3.0.214.211
+  409  ssh -i "Application Task-key-pranav.pem" ubuntu@3.0.214.211
+  410  ssh -i "pranav-key.pem" ubuntu@13.232.109.88
+  411  clear
+  412  ssh -i "pranav-key.pem" ubuntu@13.232.109.88
+  413  ssh -i "pranav-key.pem" ubuntu@15.207.3.24
+  414  ssh -i "pranav-key.pem" ubuntu@15.207.3.24
+  415  ssh -i "pranav-key.pem" ubuntu@15.207.3.24
+  416  https://www.free-css.com/assets/files/free-css-templates/download/page294/shapel.zip
+  417  ssh -i "pranav-key.pem" ubuntu@15.207.3.24
+  418  ssh -i "ohio.sample.pem" ubuntu@ec2-3-142-45-200.us-east-2.compute.amazonaws.com
+  419  ssh -i "ohio.sample.pem" ubuntu@ec2-3-142-45-200.us-east-2.compute.amazonaws.com
+  420  ssh -i "ohio.sample.pem" ubuntu@ec2-18-191-244-39.us-east-2.compute.amazonaws.com
+  421  ssh -i "pranav-key.pem" ubuntu@15.207.3.24
+  422  ssh -i "ohio.sample.pem" ubuntu@ec2-18-191-244-39.us-east-2.compute.amazonaws.com
+  423  clear
+  424  ssh -i "ohio.sample.pem" ec2-user@3.16.70.45
+  425  ssh -i "ohio.sample.pem" ec2-user@3.16.70.45
+  426  $ ssh -i "ohio.sample.pem" ec2-user@3.16.70.45
+  427  ssh -i "ohio.sample.pem" ec2-user@3.16.70.45
+  428  ssh -i "pranav-key.pem" ec2-user@130.25.3.161
+  429  ssh -i "pranav-key.pem" ec2-user@13.233.173.57
+  430  ssh -i "pranav-key.pem" ubuntu@ec2-65-0-134-247.ap-south-1.compute.amazonaws.com
+  431  ssh -i "pranav-key.pem" ubuntu@ec2-65-0-6-20.ap-south-1.compute.amazonaws.com
+  432  ssh -i "pranav-key.pem" ubuntu@ec2-65-0-6-20.ap-south-1.compute.amazonaws.com
+  433  ssh -i "pranav-key.pem" ubuntu@ec2-65-0-6-20.ap-south-1.compute.amazonaws.com
+  434  ssh -i "pranav-key.pem" ubuntu@ec2-15-206-169-193.ap-south-1.compute.amazonaws.com
+  435  ssh -i "pranav-key.pem" ubuntu@ec2-15-206-169-193.ap-south-1.compute.amazonaws.com
+  436  ssh -i "pranav-key.pem" ubuntu@65.1.232.128
+  437  ssh -i "pranav-key.pem" ubuntu@ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  438  ssh -i "pranav-key.pem" ubuntu@ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  439  ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  440  ssh -i "pranav-key.pem" ubuntu@ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  441  ssh -i "pranav-key.pem" ubuntu@ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  442  ssh -i "pranav-key.pem" ubuntu@ec2-43-204-161-43.ap-south-1.compute.amazonaws.com
+  443  ssh -i "pranav-key.pem" ec2-user@ec2-52-66-242-169.ap-south-1.compute.amazonaws.com
+  444  sudo -i
+  445  su
+  446  ls
+  447  cd rajat
+  448  ls
+  449  help
+  450  git help
+  451  git status
+  452  git init
+  453  git status
+  454  ls
+  455  touch file1..5 
+  456  ls
+  457  touch file1..5; 
+  458  ls
+  459  touch file{1..5}
+  460  ls
+  461  git branch payal-pharmacy
+  462  git branch payal
+  463  git int
+  464  git branch payal
+  465  git branch 
+  466  git branch payal
+  467  git config --global user.email "[pranavbhoyar731@gmail.com]"
+  468  git config --global user.name "[pranavbhoyar]"
+  469  git branch payal
+  470  git add file1
+  471  git status
+  472  git commit -m "thi a commit file"
+  473  git branch payal
+  474  git branch 
+  475  git checkout payal 
+  476  ls
+  477  git checkout main
+  478  git reset file1
+  479  git status
+  480  ls
+  481  git add file1
+  482  git status
+  483  vim file1
+  484  git status
+  485  git add file1
+  486  git status
+  487  git log
+  488  git revert 
+  489  git revert f9c57be7253b065a8026cf0b4415c853741a1cf4
+  490  git commit -m "thjsd oiwe oie g"
+  491  git log
+  492  git revert 389e32718cbd400d7e2f43fcbce501351f1c45c9
+  493  git revert 389e32718cbd400d7e2f43fcbce501351f1c45c9
+  494  git commit -m "thjsd oiwe oie g"
+  495  git status
+  496  git log
+  497  git revert  c83e6bcf0e58ee69b9935babe102a
+  498  clean
+  499  ls
+  500  ls
+  501  cd /
+  502  cd /d/
+  503  ls
+  504  cd gitpractic/
+  505  ls
+  506  cd prtap/
+  507  git fetch
+  508  ls
+  509  git pull
+  510  ls
+  511  vim new
+  512  git push
+  513  vim new
+  514  git push
+  515  touch great
+  516  git push
+  517  git push all
+  518  git push new
+  519  git push https://github.com/bhoyarpranav/prtap.git
+  520   git push origin https://github.com/bhoyarpranav/prtap.git
+  521   git push origin
+  522   git push origin main
+  523  git push origin main  https://github.com/bhoyarpranav/prtap.git
+  524   git push origin prtap
+  525   git remote -v 
+  526   git push https://github.com/bhoyarpranav/prtap.git main
+  527  cat the content > text
+  528  cat the content > new
+  529  history > new
